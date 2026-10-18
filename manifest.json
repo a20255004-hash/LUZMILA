@@ -1,0 +1,13 @@
+{
+  "name": "Mila",
+  "short_name": "Mila",
+  "description": "Tu doble digital: te escucha, recuerda y organiza tu vida.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F1F7",
+  "theme_color": "#D9466F",
+  "lang": "es-PE",
+  "icons": [ { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" } ]
+}
