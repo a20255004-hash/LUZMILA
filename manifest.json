@@ -1,13 +1,13 @@
 {
   "name": "Mila",
   "short_name": "Mila",
-  "description": "Tu doble digital: te escucha, recuerda y organiza tu vida.",
+  "description": "Tu luz personal: agenda, tareas, dinero, hábitos y recuerdos.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#F5F1F7",
-  "theme_color": "#D9466F",
+  "background_color": "#F6F2FF",
+  "theme_color": "#6C47FF",
   "lang": "es-PE",
   "icons": [ { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" } ]
 }
